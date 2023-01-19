@@ -11,7 +11,7 @@
 ###
 <img width="70" src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" />
 <p align="left">Intern Developer at <a href="https://stafebank.com.br/">Stafebank</a></p>
-<p align="left">📚 I'm currently learning advanced Javascript and React<br>🎯 Goals: Became a FullStack Senior Developer<br>🎲 Fun fact: I like boardgames and I'm economic statistic enthusiast </p>
+<p align="left">📚 I'm currently learning advanced Javascript and React<br>🎯 Goals: Became a FullStack Developer<br>🎲 Fun fact: I like boardgames and I'm economic statistic enthusiast </p>
 
 ###
 
