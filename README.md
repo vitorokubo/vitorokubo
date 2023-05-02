@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vitor and I'm a Front-end Developer, from Brazil.</p>
+<p align="left">My name is Vitor and I'm a FullStack Developer, from Brazil.</p>
 
 ###
 
@@ -11,7 +11,9 @@
 ###
 <img width="70" src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" />
 <p align="left">Intern Developer at <a href="https://stafebank.com.br/">Stafebank</a></p>
-<p align="left">📚 I'm currently learning advanced Javascript and React<br>🎯 Goals: Became a FullStack Developer<br>🎲 Fun fact: I like boardgames and I'm economic statistic enthusiast </p>
+<p align="left">My current stack is : MongoDB + ExpressJS + ReactJS + Nodejs (MERN)</p>
+<p align="left">But I'm have some experience with Flutter, NextJS ,Vue3, SQL and Firebase.</p>
+<p align="left">📚 I'm currently learning Flutter and PWA applications<br>🎯 Goals: Became a FullStack Developer<br>🎲 Fun fact: I like boardgames and I'm economic statistic enthusiast </p>
 
 ###
 
@@ -23,8 +25,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vue logo" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="next logo"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
@@ -51,7 +59,6 @@
   </a>
 </div>
 
-###
 
 
 
