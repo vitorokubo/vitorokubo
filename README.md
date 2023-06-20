@@ -10,7 +10,7 @@
 
 ###
 <img width="70" src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" />
-<p align="left">Intern Developer at <a href="https://stafebank.com.br/">Stafebank</a></p>
+<p align="left">FullStack Developer at <a href="https://stafebank.com.br/">Ecommerce Brasil</a></p>
 <p align="left">My current stack is : MongoDB + ExpressJS + ReactJS + Nodejs (MERN)</p>
 <p align="left">But I'm have some experience with Flutter, NextJS ,Vue3, SQL and Firebase.</p>
 <p align="left">📚 I'm currently learning Flutter and PWA applications<br>🎲 Fun fact: I like boardgames and I'm economic statistic enthusiast </p>
