@@ -10,8 +10,9 @@
 
 ###
 <img width="70" src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" />
-<p align="left">FullStack Developer at <a href="https://www.ecommercebrasil.com.br/">Ecommerce Brasil</a></p>
-<p align="left">My current stack is : MongoDB + ExpressJS + ReactJS + Nodejs (MERN)</p>
+<p align="left">FullStack Developer at <a href="https://mlf.net.br/">MLF</a></p>
+<p align="left">I'm work with : .Net 8 C# + Blazor Wasm (+Typescript) + SQL</p>
+<p align="left">My usual stack is : MongoDB + ExpressJS + ReactJS + Nodejs (MERN)</p>
 <p align="left">But I'm have some experience with Flutter, NextJS ,Vue3, SQL and Firebase.</p>
 <p align="left">📚 I'm currently learning Flutter and PWA applications<br>🎲 Fun fact: I like boardgames and I'm economic statistic enthusiast </p>
 
